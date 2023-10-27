@@ -24,12 +24,12 @@
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "6639069689:AAEphx-5JvF7s6yQiCOx55p4V3vVzhx-tR4",
+        "value": "6856448485:AAH0lMQgs4qQLzWQ8VH6soaINgq9o335YXA",
         "required": true
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
-        "value": "mongodb+srv://technomusic008:3zs9oDDtpR7GIRjN@music.wsnyqvo.mongodb.net/?retryWrites=true&w=majority",
+        "value": "mongodb+srv://teamdaxx123:teamdaxx123@cluster0.ysbpgcp.mongodb.net/?retryWrites=true&w=majority",
         "required": true
       },
       "OWNER_ID": {
@@ -39,7 +39,7 @@
       },
       "STRING_SESSION": {
         "description": "A Pyrogram v2 String Session from @StringFatherBot on Telegram.",
-        "value": "BQE-KJ0AApP0YhPaBUi36hddED-iCTphfB29Def_Gj-HSDeWM9Z2HOhIoRtspqM_1N8nn0FyMets_zBV0JZpN5xfGQJX6sRWB4hwFMIHfTWBDR_O3MG7B8wr28RCwsFldUcI0_7tC9-oCkF3eZ_Q09KJNm8frkal62UMk_s39Q28V7jZlM4DJwMfSmYQ_6czuyn4nVGITtbvTgCCCfURKZhrnKnmsd4fcDWMu1Y-UUR_KXJ3OHAZgLvBXyLpJ6Jz2cngYBhAo_s-uFX7C_WoBEZFVqeRUYiCgmnGSlVq1VrZSjRv7pL6TCwehdRxPEQpa8-oi3sVbzo6XnW1qwMPCbKEzMui5gAAAAGKnWsYAA",
+        "value": "BQE-KJ0AlNWxy8Lj2szBX8yfZPhM89buYRmXr5Cw4nRLmpfK0URPnP2TxygdbDBcZZSZEFUJ20xiTBTF4vw9LDdSWVi_munSumeZiU5XDFTV6jGhYEENEm5l6j83TIkj1M8jXis-AnZcwm4sZm6BnLXKfWASW2UF6tHso9_qCOxVsRWXzbWwGpKG83drzAyCfepVUfJZ3ilqvj98kgNTA-ThWXtVy_Ie996eM0EIBNQNUbnu3HTrK59EdIW9RTMi0OubU3kMqwLsC3tB7xL8GdUr08cdRygR2Bg725IF70yB7km9-_4eN_YehuoFVJwkbwGFotBayXDH8eBayk-rhSQYiYhwAAAAGKnWsYAA",
         "required": true
       },
       "HEROKU_API_KEY": {
@@ -49,7 +49,7 @@
       },
       "HEROKU_APP_NAME": {
         "description": "Your heroku app name",
-        "value": "technomusic008",
+        "value": "arohilovepratik",
         "required": false
       },
       "LOGGER_ID": {
